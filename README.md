@@ -1,25 +1,40 @@
 # Smart Daily Planner
 
-Smart Daily Planner is a web-based productivity application designed to help students and professionals effectively manage their daily tasks, study schedules, deadlines, and personal goals.
+I built this project because I was struggling to keep 
+track of my school assignments, test dates, and daily 
+tasks all at once. I wanted a simple tool that actually 
+helps students like me stay organized without needing 
+to install anything.
 
-The application provides task organization, priority management, smart reminders, progress tracking, and productivity analytics in a clean and user-friendly interface. It aims to improve time management, reduce missed deadlines, and encourage consistent productivity.
+## What it does
 
-## Key Features
-- Task Creation and Management
-- Priority and Status Tracking
-- Category-Based Organization
-- Smart Deadline Reminders
-- Productivity Statistics Dashboard
-- Search and Filter Functionality
-- Responsive Design for Mobile and Desktop
-- Local Data Storage
+- Add tasks with deadlines and priority levels
+- Get browser reminders before deadlines
+- See your productivity stats for the day
+- Filter tasks by category (study, personal, etc.)
+- Works on phone and computer
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- Browser Notification API
-- Local Storage API
+## Why I made this
 
-## Problem Statement
-Students often struggle to balance assignments, exams, personal activities, and deadlines. Smart Daily Planner provides a centralized platform to organize tasks, monitor progress, and maintain productivity through structured planning and reminders.
+As a Class 11 PCM student, exam pressure is real. 
+I wanted to build something I would actually use 
+every day — and this is it.
+
+## Technologies I used
+
+- HTML5 and CSS3 for the interface
+- JavaScript for all the logic
+- Browser Notification API for reminders
+- Local Storage so your tasks don't disappear on refresh
+
+## What I learned
+
+This was my first full web project. I learned how 
+Local Storage works, how to handle time-based 
+notifications in the browser, and how to make a 
+responsive layout that works on mobile screens too.
+
+## Future plans
+
+I want to add a Python backend next so tasks can 
+sync across devices — that's my next project.
