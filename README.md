@@ -1,5 +1,11 @@
 # Smart Daily Planner
 
+🌐 Live Demo: https://utkarshsingh210810-alt.github.io/smartplaner/
+
+💻 GitHub Repository: https://github.com/utkarshsingh210810-alt/smartplaner
+
+# Smart Daily Planner
+
 I built this project because I was struggling to keep 
 track of my school assignments, test dates, and daily 
 tasks all at once. I wanted a simple tool that actually 
